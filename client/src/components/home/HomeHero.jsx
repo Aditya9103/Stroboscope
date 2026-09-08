@@ -205,6 +205,9 @@ const HomeHero = () => {
             <img
               src="/heroimage.png"
               alt="Stroboscope Inspection Device"
+              fetchpriority="high"
+              loading="eager"
+              decoding="sync"
               className="relative z-10 w-full max-w-2xl scale-[1.1] translate-x-0 md:-translate-x-8 lg:-translate-x-12 -translate-y-24 object-contain drop-shadow-2xl"
             />
 
