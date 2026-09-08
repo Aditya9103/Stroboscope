@@ -203,7 +203,7 @@ const HomeHero = () => {
           {/* Right Container for Image and Badges */}
           <div className="relative mt-12 lg:mt-0 flex justify-center items-center h-full min-h-[300px] lg:min-h-full">
             <img
-              src="/heroimage.png"
+              src="/heroimage.webp"
               alt="Stroboscope Inspection Device"
               fetchpriority="high"
               loading="eager"

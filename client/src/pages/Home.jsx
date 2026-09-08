@@ -34,7 +34,7 @@ const Home = () => {
     "@context": "https://schema.org/",
     "@type": "Product",
     "name": "Stroboscopes",
-    "image": "https://stroboscopelight.com/heroimage.png",
+    "image": "https://stroboscopelight.com/heroimage.webp",
     "description": "The best stroboscope in Delhi, India. Premium LED Handheld and Xenon Flash Tube stroboscopes for printing and industrial inspection.",
     "brand": {
       "@type": "Brand",
